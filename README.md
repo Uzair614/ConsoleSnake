@@ -1,5 +1,11 @@
-# README #
+# Snake
+Quick Note: Works only in windows for now, due to windows libraries for console cursor position.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A console based snake game made in C.
 
-Quick Note: Works only in windows for now, due to windows libraries for console sursor position
+### Contains:
+- A single player mode
+- A two player mode
+- Changing of snake speed and color
+- A Map editor to create custom maps for play
+- Highscores
